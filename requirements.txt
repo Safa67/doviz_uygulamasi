@@ -1,0 +1,2 @@
+python-dotenv>=1.0.0
+# Tkinter, sqlite3, json, datetime, http.client, os, re are standard Python libraries
